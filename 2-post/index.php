@@ -17,11 +17,11 @@
         <input class='form-control' type="password" name="contrasena" id="">
         <br>
         <label for="masculino">Masculino</label>
-        <input  type="radio" name="sexo" id="masculino" value="masculino">
+        <input  type="radio" name="sexo" id="masculino" value="m">
         <label for="femenino">Femenino</label>
-        <input  type="radio" name="sexo" id="femenino" value="femenino">
-        <label for="otre">Otres</label>
-        <input  type="radio" name="sexo" id="otre" value="otre">
+        <input  type="radio" name="sexo" id="femenino" value="f">
+        <label for="femenino">Otres</label>
+        <input  type="radio" name="sexo" id="otre" value="o">
         <br>
         <label for="">dni</label>
         <input class='form-control' type="number" name="dni" id="">
